@@ -4,4 +4,5 @@ I'm a frontend developer from Shanxi, with a love for writing `code`. I post blo
 
 In my spare time, I learn `Nestjs`. I try to write some English posts to level up my English, with the aim to work remotely in the future. 
 
-I also like Bicycling 🚵‍♀️ and meditation 🧘, but I don't do risky tricks.
+I also like Bicycling 🚵‍♀️ and meditation 🧘, they help me balance physical energy and mental calm perfectly.
+.
